@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-exercise:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-07T09:49:47.89023063Z"
+    description: A k8s tutorials in https://github.com/guangzhengli/k8s-tutorials
+    digest: 5d30683aa6cd41e44ac36cdccf1535d65a5219656da9532c7473b6b23584e4a2
+    name: helm-exercise
+    type: application
+    urls:
+    - https://github.com/shixinnnnn/helm-chart/releases/download/helm-exercise-0.1.0/helm-exercise-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-07T09:49:47.890236872Z"
